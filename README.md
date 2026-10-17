@@ -15,7 +15,7 @@ The primary objective is to translate technical exploratory data findings into c
 * **Language:** Python
 * **Data Manipulation & Cleaning:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Google Colab
+* **Environment:** Google Colab
 
 ---
 
